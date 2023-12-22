@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Zero from France<br><br>- 🔭 I’m currently working on CityV<br>- 📚 I'm currently learning Rust</p>
+<p align="left">I'm Zero from France<br><br>- 🔭 I’m currently working on Midway<br>- 📚 I'm currently learning Rust</p>
 
 ###
 
