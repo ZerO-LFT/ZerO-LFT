@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Zero from France<br><br>- 🔭 I’m currently working on EFH<br>- 📚 I'm currently learning Zig</p>
+<p align="left">I'm Zero from France.<br><br>- 🔭 I’m currently working on ASB Soft.<br>- 💸 Focusing on project.</p>
 
 ###
 
@@ -40,7 +40,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="rust logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/rust/default.svg" height="40" alt="rust logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
   <img width="12" />
